@@ -4,6 +4,11 @@ Working toward data science and machine learning. Python is the default: dataset
 
 The projects below are that loop in practice — applied ML, analytics, and a few products around the edges.
 
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,java,ts,git&theme=light#gh-light-mode-only" alt="Python, PyTorch, scikit-learn, Java, TypeScript, Git" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,java,ts,git&theme=dark#gh-dark-mode-only" alt="Python, PyTorch, scikit-learn, Java, TypeScript, Git" />
+</p>
+
 ## Selected work
 
 | Project | What it is |
@@ -13,10 +18,6 @@ The projects below are that loop in practice — applied ML, analytics, and a fe
 | [SmishKaBa](https://github.com/remi-9/SmishKaBa) | Explainable SMS smishing detection. Multiclass ham / spam / smishing with NB, SVM, and multinomial logistic regression, plus SHAP on the MLR model. |
 | [JobTracker](https://github.com/remi-9/JobTracker) | Application tracker in TypeScript. Local-first, optional Supabase sync. [Live](https://job-tracker-remi18.vercel.app). |
 
-## Stack
-
-Python · scikit-learn · PyTorch · TypeScript · Java
-
-## Contact
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=remi-9&show_icons=true&hide_rank=true&hide_border=true&theme=transparent)](https://github.com/remi-9)
 
 [LinkedIn](https://www.linkedin.com/in/jeremias-pablo-898422253)
