@@ -1,16 +1,22 @@
-## Hi there 👋
+# Jeremias Pablo
 
-<!--
-**remi-9/remi-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Working toward data science and machine learning. Python is the default: datasets, models, metrics, and whether a prediction can be explained.
 
-Here are some ideas to get you started:
+The projects below are that loop in practice — applied ML, analytics, and a few products around the edges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+| Project | What it is |
+| --- | --- |
+| [PANSINAYAN](https://github.com/remi-9/fslr-transformer-vs-iv3gru) | FSL recognition: isolated signs (105 glosses, 10 categories), CTC for continuous signing, Streamlit for inspection. |
+| [Saklolo Hub](https://github.com/remi-9/Saklolo-Hub) | Android app for disaster response in the Philippines — mapping, resource allocation, and coordination between affected people, volunteers, and donors. |
+| [SmishKaBa](https://github.com/remi-9/SmishKaBa) | Explainable SMS smishing detection. Multiclass ham / spam / smishing with NB, SVM, and multinomial logistic regression, plus SHAP on the MLR model. |
+| [JobTracker](https://github.com/remi-9/JobTracker) | Application tracker in TypeScript. Local-first, optional Supabase sync. [Live](https://job-tracker-remi18.vercel.app). |
+
+## Stack
+
+Python · scikit-learn · PyTorch · TypeScript · Java
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/jeremias-pablo-898422253)
