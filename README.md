@@ -52,7 +52,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=remi-9&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub stats" />
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=remi-9&layout=donut&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=c9d1d9" alt="Top languages" />
-
 </div>
